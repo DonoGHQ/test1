@@ -1,1 +1,8 @@
 commit("github/janky", "35fff49dc18376845dd37e785c1ea88c6133f928")
+
+
+googlecloud key:
+AIzaSyB4Gz8nyaSaWo63IPUcy5d_L8dpKtOTSD0
+
+
+aws_secret_access_key =HYMPKUlNHWkwOJ06cYQ/adtAKaJiXSweVBql49sV
